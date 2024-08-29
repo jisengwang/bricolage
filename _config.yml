@@ -1,0 +1,8 @@
+title: My Typography Site
+description: A website showcasing advanced typography
+baseurl: "/bricolage" # Replace with your GitHub Pages repository name
+
+# Optional: Add your Google Fonts URL
+# google_fonts: "https://fonts.googleapis.com/css?family=Playfair+Display:400,700"
+
+# ... rest of your _config.yml settings ...
